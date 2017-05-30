@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>cbca0e96-d552-4218-a0ba-dc4cdadbc99a</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CoffeeCups</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Authentication\AuthHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Authentication\SocialAuthentication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Authentication\IAuthentication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\Settings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\AddData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\CupOfCoffee.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TestingData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\TransactionData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\AzureService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\MasterViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)View\Masterpage.xaml.cs">
+      <DependentUpon>Masterpage.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)View\TransactionsForm.xaml.cs">
+      <DependentUpon>TransactionsForm.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\Masterpage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)View\TransactionsForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

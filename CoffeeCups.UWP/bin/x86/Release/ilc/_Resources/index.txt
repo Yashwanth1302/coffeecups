@@ -1,0 +1,7 @@
+CoffeeCups.UWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  CoffeeCups.UWP.View.Masterpage.xaml
+  CoffeeCups.UWP.View.TransactionsForm.xaml
+Microsoft.WindowsAzure.Mobile, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Microsoft.WindowsAzure.MobileServices.Resources.resources
+Microsoft.WindowsAzure.Mobile.SQLiteStore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Microsoft.WindowsAzure.MobileServices.SQLiteStore.Properties.Resources.resources

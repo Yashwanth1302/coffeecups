@@ -1,0 +1,7 @@
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\optimized\
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\CoffeeCups.iOS.Masterpage.xaml.g.cs
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\CoffeeCups.iOS.Page1.xaml.g.cs
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.iOS\obj\iPhone\Release\CoffeeCups.iOS.TransactionsForm.xaml.g.cs

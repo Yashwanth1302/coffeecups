@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoffeeCups.View.TransactionsForm"
+             >
+
+    <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Vertical">
+            <Entry x:Name="traid" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Placeholder="Transaction ID"></Entry>
+            <Entry x:Name="prodcod" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Placeholder="Product Code"></Entry>
+            <Entry x:Name="qty" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Placeholder="Qty"></Entry>
+            
+            <Button Text="Save" HorizontalOptions="FillAndExpand"
+                    Clicked="samplesave"
+                    x:Name="sam"
+                    
+                     ></Button>
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>

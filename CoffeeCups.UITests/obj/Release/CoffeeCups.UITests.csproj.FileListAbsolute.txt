@@ -1,0 +1,10 @@
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\CoffeeCups.UITests.dll.config
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\CoffeeCups.UITests.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\CoffeeCups.UITests.pdb
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\nunit.framework.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\Xamarin.UITest.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\nunit.framework.xml
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Release\Xamarin.UITest.xml
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\obj\Release\CoffeeCups.UITests.csprojResolveAssemblyReference.cache
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\obj\Release\CoffeeCups.UITests.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\obj\Release\CoffeeCups.UITests.pdb

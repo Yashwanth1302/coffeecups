@@ -1,0 +1,1 @@
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UWP\CoffeeCups.UWP.csproj;x64

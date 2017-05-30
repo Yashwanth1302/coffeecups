@@ -1,0 +1,19 @@
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\CoffeeCups.UITests.dll.config
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\CoffeeCups.UITests.dll
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\CoffeeCups.UITests.pdb
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\nunit.framework.dll
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\Xamarin.UITest.dll
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\nunit.framework.xml
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\Xamarin.UITest.xml
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\obj\Debug\CoffeeCups.UITests.csprojResolveAssemblyReference.cache
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\obj\Debug\CoffeeCups.UITests.dll
+D:\low\New Cofee github\app-coffeecups-master\app-coffeecups-master\CoffeeCups.UITests\obj\Debug\CoffeeCups.UITests.pdb
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\CoffeeCups.UITests.dll.config
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\CoffeeCups.UITests.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\CoffeeCups.UITests.pdb
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\nunit.framework.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\nunit.framework.xml
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\obj\Debug\CoffeeCups.UITests.dll
+C:\Users\ecpl\Desktop\app-coffeecups-master\CoffeeCups.UITests\obj\Debug\CoffeeCups.UITests.pdb
