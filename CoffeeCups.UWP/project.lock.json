@@ -24650,14 +24650,14 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ecpl\\.nuget\\packages\\": {}
+    "C:\\Users\\yashwanth\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\ecpl\\Desktop\\app-coffeecups-master\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
+      "projectUniqueName": "F:\\LowFiles\\GitHub\\coffeecups\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
       "projectName": "CoffeeCups.UWP",
-      "projectPath": "C:\\Users\\ecpl\\Desktop\\app-coffeecups-master\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\ecpl\\Desktop\\app-coffeecups-master\\CoffeeCups.UWP\\project.json",
+      "projectPath": "F:\\LowFiles\\GitHub\\coffeecups\\CoffeeCups.UWP\\CoffeeCups.UWP.csproj",
+      "projectJsonPath": "F:\\LowFiles\\GitHub\\coffeecups\\CoffeeCups.UWP\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
